@@ -1,4 +1,4 @@
-<table style="border: none">
+<table style="border: none, border-collapse: collapse; ">
   <tr>
     <td>
       <h3>Olá, me chamo Lumah! 
@@ -13,7 +13,7 @@ Bem vindo ao meu perfil GitHub 👋</h3>
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
     </td>
-    <td>
+    <td valign="right">
       <img src="https://stickershop.line-scdn.net/stickershop/v1/product/18810/LINEStorePC/main.png" width="180px" height="150px">
     </td>
   </tr>
