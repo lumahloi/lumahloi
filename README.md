@@ -1,4 +1,4 @@
-<div id="container" style="display: flex" width="100%">
+<div id="container" style="display: flex; flex-direction: row;" width="100%">
   <div align="right">
     <img src="https://stickershop.line-scdn.net/stickershop/v1/product/18810/LINEStorePC/main.png" width="180px" height="150px">
   </div>
