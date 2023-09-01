@@ -1,9 +1,9 @@
-<div id="container" style="display: flex">
+<div id="container" style="display: flex" width="100%">
 <div>
   <div align="right">
-    <img src="https://www.nicepng.com/png/full/190-1906871_free-download-png-clipart-hello.png" width="200" height="200">
+    <img src="https://www.nicepng.com/png/full/190-1906871_free-download-png-clipart-hello.png">
   </div>
-  <h3 align="center">Olá, me chamo Lumah! 
+  <h3>Olá, me chamo Lumah! 
 Bem vindo ao meu perfil GitHub 👋</h3>
 
 - 🔭 Atualmente estou trabalhando em ...
