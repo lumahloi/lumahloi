@@ -14,6 +14,9 @@
     <li>
        ⚡ Curiosidade: gosto muito da Kuromi!
     </li>
+    <li>
+       📬 Como me contatar: <a href="https://www.linkedin.com/in/lumah-p-4744a726a/">meu LinkedIn</a>
+    </li>
   </ul>
 </div>
 <br><br><br>
