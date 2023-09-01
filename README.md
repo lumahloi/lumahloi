@@ -1,9 +1,7 @@
-<div id="container" style="display: flex; flex-direction: row;" width="100%">
-  <div align="right">
-    <img src="https://stickershop.line-scdn.net/stickershop/v1/product/18810/LINEStorePC/main.png" width="180px" height="150px">
-  </div>
-  <div>
-    <h3>Olá, me chamo Lumah! 
+<table style="border: none">
+  <tr>
+    <td>
+      <h3>Olá, me chamo Lumah! 
 Bem vindo ao meu perfil GitHub 👋</h3>
 
 - 🔭 Atualmente estou trabalhando em ...
@@ -14,8 +12,12 @@ Bem vindo ao meu perfil GitHub 👋</h3>
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
-  </div>
-</div>
+    </td>
+    <td>
+      <img src="https://stickershop.line-scdn.net/stickershop/v1/product/18810/LINEStorePC/main.png" width="180px" height="150px">
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Estou aprendendo</h3>
 <div style="display: inline-block" align="center">
