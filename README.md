@@ -1,4 +1,4 @@
-<table style="border: none, border-collapse: collapse; ">
+<table style="border: 'none'; border-collapse: 'collapse'; ">
   <tr>
     <td>
       <h3>Olá, me chamo Lumah! 
