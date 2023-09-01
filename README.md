@@ -1,4 +1,6 @@
-<kbd><h3 align="center">Olá, me chamo Lumah! 
+<div id="container" style="display: flex">
+<div>
+  <h3 align="center">Olá, me chamo Lumah! 
 Bem vindo ao meu perfil GitHub 👋</h3>
 
 - 🔭 Atualmente estou trabalhando em ...
@@ -8,7 +10,13 @@ Bem vindo ao meu perfil GitHub 👋</h3>
 - 💬 Pergunte-me sobre ...
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes: ...
-- ⚡ Curiosidade: ...</kbd>
+- ⚡ Curiosidade: ...
+  </div>
+  <div align="right">
+    <img src="https://www.nicepng.com/png/full/190-1906871_free-download-png-clipart-hello.png" width="60" height="60">
+  </div>
+  </div>
+</div>
 
 <h3 align="center">Estou aprendendo</h3>
 <div style="display: inline-block" align="center">
