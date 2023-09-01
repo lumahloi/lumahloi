@@ -16,7 +16,7 @@
     </li>
   </ul>
 </div>
-
+<br><br><br>
 <h3 align="center">Estou aprendendo</h3>
 <div style="display: inline-block;" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" loading="lazy" width="40" height="40"/>       
