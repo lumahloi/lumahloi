@@ -1,5 +1,8 @@
 <div id="container" style="display: flex">
 <div>
+  <div align="right">
+    <img src="https://www.nicepng.com/png/full/190-1906871_free-download-png-clipart-hello.png" width="200" height="200">
+  </div>
   <h3 align="center">Olá, me chamo Lumah! 
 Bem vindo ao meu perfil GitHub 👋</h3>
 
@@ -11,9 +14,6 @@ Bem vindo ao meu perfil GitHub 👋</h3>
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
-  </div>
-  <div align="right">
-    <img src="https://www.nicepng.com/png/full/190-1906871_free-download-png-clipart-hello.png" width="60" height="60">
   </div>
   </div>
 </div>
