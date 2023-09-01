@@ -28,5 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" loading="lazy" width="40" height="40"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" loading="lazy" width="40" height="40"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" loading="lazy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" loading="lazy" width="40" height="40"/>         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" loading="lazy" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  loading="lazy" width="40" height="40"/>
 </div>
