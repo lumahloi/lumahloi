@@ -1,4 +1,4 @@
-<p style="text-align: center">Olá, me chamo Lumah! 
+<p style="display: block; text-align: center">Olá, me chamo Lumah! 
 Bem vindo ao meu perfil GitHub 👋</p>
 
 - 🔭 Atualmente estou trabalhando em ...
@@ -12,7 +12,7 @@ Bem vindo ao meu perfil GitHub 👋</p>
 
 <p style="text-align: center">Estou aprendendo</p>
 <div style="display: inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" loading="lazy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" loading="lazy" width="40" height="40"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" loading="lazy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" loading="lazy" width="40" height="40"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" loading="lazy" width="40" height="40"/>   
