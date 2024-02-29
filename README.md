@@ -1,36 +1,29 @@
+# Olá, me chamo Lumah! <br> Bem-vindo ao meu perfil GitHub 👋
+- 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na FAETERJ-Rio
+- 🌱 Atualmente estou aprendendo Full Stack
+- ⚡ Formada no Técnico Informática para Internet
+
+## Contato
 <div>
-    <img align="right" src="https://stickershop.line-scdn.net/stickershop/v1/product/18810/LINEStorePC/main.png">
+<a href="https://www.linkedin.com/in/lumah-pereira-4744a726a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-  
-<div style="display: flex; width: 100%;">
-    <h1>Olá, me chamo Lumah! <br> Bem vindo ao meu perfil GitHub 👋</h1>
-  <ul>
-    <li>
-       🔭 Atualmente estou estudando na FAETERJ-Rio e técnico na FAETEC
-    </li>
-    <li>
-       🌱 Atualmente estou aprendendo Análise e Desenvolvimento de Sistemas e Desenvolvimento Web
-    </li>
-    <li>
-       ⚡ Curiosidade: gosto muito da Kuromi!
-    </li>
-    <li>
-       📬 Como me contatar: <a href="https://www.linkedin.com/in/lumah-p-4744a726a/">meu LinkedIn</a>
-    </li>
-  </ul>
+
+## Tecnologias
+<div>
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"> 
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue">
 </div>
-<br><br><br>
-<h3 align="center">Estou aprendendo</h3>
-<div style="display: inline-block;" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" loading="lazy" width="40" height="40"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" loading="lazy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" loading="lazy" width="40" height="40"/>    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" loading="lazy" width="40" height="40"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" loading="lazy" width="40" height="40"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" loading="lazy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" loading="lazy" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  loading="lazy" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" loading="lazy" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" loading="lazy" width="40" height="40" />
-          
+
+
+## Estatísticas
+<div>
+<a href="https://github.com/lumahloi">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumahloi&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lumahloi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
