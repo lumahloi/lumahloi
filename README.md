@@ -1,7 +1,12 @@
-# Olá, me chamo Lumah! <br> Bem-vindo ao meu perfil GitHub 👋
-- 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na FAETERJ-Rio
-- 🌱 Atualmente estou aprendendo Full Stack
-- ⚡ Formada no Técnico Informática para Internet
+<div><img src="https://stickershop.line-scdn.net/stickershop/v1/product/18810/LINEStorePC/main.png" align="right"></div>
+<div style="display: flex; width: 100%;">
+    <h1> Olá, me chamo Lumah! <br> Bem-vindo ao meu perfil GitHub 👋 </h1>
+    <ul>
+        <li>🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na FAETERJ-Rio</li>
+        <li>🌱 Atualmente estou aprendendo Full Stack</li>
+        <li>⚡ Formada no Técnico Informática para Internet</li>
+    </ul>
+</div>
 
 ## Contato
 <div>
