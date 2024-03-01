@@ -30,5 +30,4 @@
 <div>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumahloi&layout=compact&langs_count=7&theme=material-palenight"/>    
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lumahloi&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dcndocx-8001666d-ee08-49d5-a17a-838046e0b9b8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGNuZG9jeC04MDAxNjY2ZC1lZTA4LTQ5ZDUtYTE3YS04MzgwNDZlMGI5YjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.R-swvjV89Sw3w7dISBsh4nE1SzbWND0umu78xOdtce4" align="right">
 </div>
