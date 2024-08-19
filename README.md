@@ -12,6 +12,4 @@
     </ul>
      <table><td>Stack</td></table>
     <p>React, C, Java, PHP, SQL</p>
-    <table><td>Contact</td></table>
-    <a href="https://www.linkedin.com/in/lumah-pereira-4744a726a/">LinkedIn</a>
 </samp>
