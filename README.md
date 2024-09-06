@@ -8,6 +8,6 @@
         <li>System's Analysis and Development<br>Associates Degree;</li><br>
         <li>Certificated in Web Development;</li><br>
         <li>Full Stack Enthusiast <3💕;</li><br>
-        <li>Stack: React, C, Java, PHP, SQL</li>
+        <li>Stack: React, C, Java, PHP, SQL, Node</li>
     </ul>
 </samp>
