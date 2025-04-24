@@ -12,6 +12,7 @@
 [![E-mail](https://img.shields.io/badge/Email-lumah.pereira26@gmail.com-pink)](mailto:lumah.pereira26@email.com)
 
 ## github statistics
-
-[![lumahloi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumahloi&show_icons=true&theme=dracula&title_color=d679bf&hide=issues)](https://github.com/lumahloi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumahloi&layout=compact&theme=dracula&title_color=d679bf)](https://github.com/lumahloi/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=lumahloi&show_icons=true&theme=dracula&title_color=d679bf" alt="Github Stats" height="150"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumahloi&layout=compact&theme=dracula&title_color=d679bf" alt="Top Languages" height="150"> 
+</div>
