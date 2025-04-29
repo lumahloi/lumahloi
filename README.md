@@ -4,15 +4,14 @@
 - my name is ***Lumah Pereira***
 - i'm a ***Fullstack Developer*** focused on ***JavaScript*** and ***Python***
 - proud ***christian***, lover of ***coffee*** and ***cats***
-- check my ***[portfolio](https://lumah-pereira.vercel.app)*** !
 
 ## 📫 let's get in touch !
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lumah-pereira)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D47CBC.svg?logo=vercel&logoColor=white)](https://www.lumah-pereira.vercel.app)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lumah-pereira)
 [![E-mail](https://img.shields.io/badge/Email-lumah.pereira26@gmail.com-pink)](mailto:lumah.pereira26@email.com)
 
 ## github statistics
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=lumahloi&show_icons=true&theme=dracula&title_color=d679bf" alt="Github Stats" height="150"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumahloi&layout=compact&theme=dracula&title_color=d679bf&hide=html,css,scss" alt="Top Languages" height="150"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumahloi&layout=compact&theme=dracula&title_color=d679bf" alt="Top Languages" height="150"> 
 </div>
