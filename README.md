@@ -6,7 +6,7 @@
 - proud ***christian***, lover of ***coffee*** and ***cats***
 
 ## 📫 let's get in touch !
-[![Portfolio](https://img.shields.io/badge/Portfolio-D47CBC.svg?logo=vercel&logoColor=white)](https://www.lumah-pereira.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D47CBC.svg?logo=vercel&logoColor=white)](https://lumah-pereira.vercel.app/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lumah-pereira)
 [![E-mail](https://img.shields.io/badge/Email-lumah.pereira26@gmail.com-pink)](mailto:lumah.pereira26@email.com)
 
