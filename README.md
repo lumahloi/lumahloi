@@ -5,7 +5,6 @@
 
 ## 📫 let's get in touch !
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lumah-pereira)
-[![E-mail](https://img.shields.io/badge/Email-lumah.pereira26@gmail.com-pink)](mailto:lumah.pereira26@email.com)
 
 ## github statistics
 <div>
