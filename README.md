@@ -5,6 +5,9 @@ My name is ***Lumah***, based on Rio de Janeiro, Brazil
 
 📫 contact me through ***[LinkedIn](https://www.linkedin.com/in/lumah-pereira)***
 
+## main stack
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"> <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"> <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"> <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png">
+
 ## main projects
 - [FastAPI CRUD](https://github.com/lumahloi/shop-fastapi2): functionalities of a shop with tests and data persistance. Used FastAPI, Docker, Pytest and PostgreSQL.
 
