@@ -1,14 +1,13 @@
-# *welcome !*
+# welcome!
+My name is ***Lumah***, based on Rio de Janeiro, Brazil 
 
-my name is ***Lumah Pereira***
+💼 ***Jr. Back-End Developer*** at MPRJ
 
-proud ***christian***, lover of ***coffee*** and ***cats***
+📫 contact me through ***[LinkedIn](https://www.linkedin.com/in/lumah-pereira)***
 
-## 📫 let's get in touch
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lumah-pereira)
+## main projects
+- [FastAPI CRUD](https://github.com/lumahloi/shop-fastapi2): functionalities of a shop with tests and data persistance. Used FastAPI, Docker, Pytest and PostgreSQL.
 
-## github statistics
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lumahloi&show_icons=true&theme=noctis_minimus" alt="Github Stats" height="150"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumahloi&layout=compact&theme=noctis_minimus&hide=html,css,scss,astro,mdx,tex" alt="Top Languages" height="150"> 
-</div>
+- [Email Analyzer](https://github.com/lumahloi/email-analyzer): Smart application that automates email sorting and response using Flask, Bootstrap, and Machine Learning. Used jQuery, Bootstrap, Flask, the Gemini API and Machine Learning libraries.
+
+- [Task Manager](https://github.com/lumahloi/task-manager): Organize your tasks and never feel lost again. Used React, TypeScript, Next.js, TailwindCSS, tRPC and shadn-ui.
